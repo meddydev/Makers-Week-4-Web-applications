@@ -41,7 +41,7 @@ Alice,Joe,Julia,Kieran,Zoe
 ```
 # Request:
 
-GET /sort-names
+POST /sort-names
 body params: names = Ahmed,Sara,Karolina,Tay,Shaun
 
 # Expected response:
